@@ -15,7 +15,7 @@ With basic knowledge in C, C++, Java, Python, SQL, CSS, and some skills in HTML,
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Java](https://img.shields.io/badge/-Java-000?&logo=oracle)
+![Java](https://img.shields.io/badge/-Java-000?&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAe1BMVEUAAADQ29vT1NTZ2dnT1NTQ1NDQ1NDZ2dnZ2dnZ2dnQ1NDZ2dnZ2dnZ2dnZ2dnT1NTZ2dnZ2dnZ2dnZ2dnT1NTZ2dnZ2dnQ1NDZ2dnZ2dnZ2dnZ2dnQ1NDZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnT1NTZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnAAAAAXRSTlMAQObYZgAAABZJREFUGFdjYCAA5oGJkZGRV0AExQA+f//GNDfMAAAAAElFTkSuQmCC)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
