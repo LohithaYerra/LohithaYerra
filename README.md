@@ -19,8 +19,8 @@ With basic knowledge in C, C++, Java, Python, SQL, CSS, and some skills in HTML,
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=SQL)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 ## GitHub Stats
 
