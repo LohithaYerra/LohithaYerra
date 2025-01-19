@@ -1,4 +1,4 @@
-![Header Image](https://github.com/LohithaYerra/LohithaYerra#1)
+![Header Image](https://github.com/LohithaYerra/LohithaYerra/blob/main/Screenshot%202025-01-19%20211446.png)<br />
 
 ### Hi there 👋, I'm Lohitha Yerra 🍩
 
